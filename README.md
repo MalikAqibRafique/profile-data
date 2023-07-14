@@ -58,3 +58,6 @@
 [youtube]: https://youtube.com/phpdocs
 [instagram]: https://instagram.com/phpdocs
 [linkedin]: https://linkedin.com/in/mafzal9
+
+# Link Image
+<a href="http://google.com"><img align="left" src="/image4/dog-image-3.jpg" width="200" height="200" ></img></a>

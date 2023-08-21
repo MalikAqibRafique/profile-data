@@ -61,3 +61,10 @@
 
 # Link Image
 <a href="http://google.com"><img align="left" src="/image4/dog-image-3.jpg" width="200" height="200" ></img></a>
+
+<h1>New data add</h1>
+If your code is stored locally on your computer and is tracked by Git or not tracked by any version control system (VCS), you can import the code to GitHub using GitHub CLI or Git commands.
+
+If your code is stored locally on your computer and is tracked by Git or not tracked by any version control system (VCS), you can import the code to GitHub using GitHub CLI or Git commands.
+
+If your code is stored locally on your computer and is tracked by Git or not tracked by any version control system (VCS), you can import the code to GitHub using GitHub CLI or Git commands.
